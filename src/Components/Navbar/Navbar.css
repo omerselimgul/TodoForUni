@@ -1,0 +1,12 @@
+.addedcontainer {
+  display: inline-flex;
+  position: relative;
+  align-items: center;
+  justify-content: space-between;
+  left: 30%;
+  width: 50%;
+  margin-top: 2rem;
+  border: 1px solid;
+  padding: 0.5rem;
+  box-sizing: border-box;
+}
